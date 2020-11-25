@@ -11,7 +11,7 @@ flutter run
 ## 目录结构
 
 ### 开发目录
-
+```
 Project
 ├─ .dart_tool	 记录了一些dart工具库所在的位置和信息
 ├─ .idea	 android studio 是基于idea开发的，.idea 记录了项目的一些文件的变更记录
@@ -37,7 +37,7 @@ Project
 ├─ pubspec.lock	 当前项目依赖所生成的文件
 ├─ pubspec.yaml	 当前项目的一些配置文件，包括依赖的第三方库、图片资源文件等
 └─ README.md  READEME文件
-
+```
 
 ## Getting Starte
 
