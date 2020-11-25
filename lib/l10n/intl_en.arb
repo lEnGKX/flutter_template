@@ -1,0 +1,13 @@
+{
+  "Home": "Home",
+  "jumpDemoPage": "Skip to the {page} page",
+  "Demo": "Demo",
+  "My": "My",
+  "Setting": "Setting",
+  "multiLanguage": "multi-language",
+  "FollowSystem": "Follow the system",
+  "Theme": "Theme",
+  "LightMode": "Light mode",
+  "DarkMode": "Dark mode",
+  "mockRequest": "mock request"
+}

@@ -1,0 +1,13 @@
+{
+  "Home": "首頁",
+  "jumpDemoPage": "跳轉到 {page} 頁面",
+  "Demo": "示例",
+  "My": "我的",
+  "Setting": "設置",
+  "multiLanguage": "多語言",
+  "FollowSystem": "跟隨系統",
+  "Theme": "主題",
+  "LightMode": "明亮模式",
+  "DarkMode": "暗黑模式",
+  "mockRequest": "模擬請求"
+}
